@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm @csanjuana99 (Carlos Sanjuan) 👋
 
-<!--
-**csanjuan99/csanjuan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm fullstack software developer from Colombia. I have been builidng APIs for Customer Relationship Management, e-Commerce and Machine Learning data systems team's.
+Currently, I live in Colombia, working on a Medellin company @lax-team. I'm currently working with technologies like, FastAPI, Nest.js, Vue and React. Also, i'm learnign and structiring descentralized apps with Solidity on EVM.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You cand find me on:
+* [Twitter as @csanjuan99](https://www.twitter.com/csanjuan99)
+* [GitHub as @csanjuan99 (you are here)](https://www.github.com/csanjuan99)
+* [LinkedIn](https://www.linkedin.com/in/carlos-sanjuan-311b6b191/)
+
+
+[![csanjuan99's GitHub stats](https://github-readme-stats.vercel.app/api?username=csanjuan99)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=csanjuan99)](https://github.com/anuraghazra/github-readme-stats)
