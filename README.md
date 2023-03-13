@@ -5,6 +5,7 @@ Currently, I live in Colombia, working on a Medellin company @lax-team. I'm curr
 
 
 You cand find me on:
+* [Website/Portfolio](https://carlos-sanjuan-landing-client.vercel.app)
 * [Twitter as @csanjuan99](https://www.twitter.com/csanjuan99)
 * [GitHub as @csanjuan99 (you are here)](https://www.github.com/csanjuan99)
 * [LinkedIn](https://www.linkedin.com/in/carlos-sanjuan-311b6b191/)
