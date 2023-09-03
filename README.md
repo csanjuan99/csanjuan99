@@ -10,7 +10,4 @@ You cand find me on:
 * [GitHub as @csanjuan99 (you are here)](https://www.github.com/csanjuan99)
 * [LinkedIn](https://www.linkedin.com/in/carlos-sanjuan-311b6b191/)
 
-
-[![csanjuan99's GitHub stats](https://github-readme-stats.vercel.app/api?username=csanjuan99)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=csanjuan99)](https://github.com/anuraghazra/github-readme-stats)
