@@ -1,4 +1,4 @@
-### Hi there, I'm @csanjuana99 (Carlos Sanjuan) 👋
+### Hi there, I'm @csanjuan99 (Carlos Sanjuan) 👋
 
 I'm fullstack software developer from Colombia. I have been builidng APIs for Customer Relationship Management, e-Commerce and Machine Learning data systems team's.
 Currently, I live in Colombia, working on a Medellin company @lax-team. I'm currently working with technologies like, FastAPI, Nest.js, Vue and React. Also, i'm learnign and structiring descentralized apps with Solidity on EVM.
